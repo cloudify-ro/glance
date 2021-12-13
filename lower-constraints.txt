@@ -33,7 +33,8 @@ fixtures==3.0.0
 flake8==3.7.9
 future==0.16.0
 futurist==1.2.0
-glance-store==2.3.0
+#glance-store==2.3.0
+git+https://github.com/cloudify-ro/glance_store@stable/wallaby-cfy#egg=glance_store
 greenlet==0.4.13
 httplib2==0.9.1
 idna==2.5
